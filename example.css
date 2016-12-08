@@ -1,11 +1,11 @@
 /* Access Wallet Screen */
 .walletAccess-page,
 .walletAccess-title {
-    background: red;
+    background: red !important;
 }
 
 .walletAccess-title {
-    color: #fff;
+    color: red;
     padding-top:4vh;
     margin-bottom: 1vh;
     border:0px;
